@@ -1,0 +1,1 @@
+{"name":"position-ledger","private":true,"type":"module","scripts":{"build":"vite build"},"dependencies":{"react":"19.2.6","react-dom":"19.2.6"},"devDependencies":{"vite":"8.0.13","typescript":"5.9.3","@types/react":"19.2.14","@types/react-dom":"19.2.3"}}
